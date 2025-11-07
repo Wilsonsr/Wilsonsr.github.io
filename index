@@ -8,7 +8,7 @@
 <body>
   <h1>Mis gráficas</h1>
   <ul>
-    <li><a href="grafica_1.html">Gráfica 1</a></li>
+    <li><a href="https://github.com/Wilsonsr/Wilsonsr.github.io/blob/main/ARCHIVOS/mapa_gestantes_tamizaje_vih_s%C3%ADfilis_hep_b.html">Gráfica 1</a></li>
     <li><a href="grafica_2.html">Gráfica 2</a></li>
     <!-- Agrega más enlaces si tienes más HTML -->
   </ul>
