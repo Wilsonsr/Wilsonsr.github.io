@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Mis gráficas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  <h1>Mis gráficas</h1>
+  <ul>
+    <li><a href="grafica_1.html">Gráfica 1</a></li>
+    <li><a href="grafica_2.html">Gráfica 2</a></li>
+    <!-- Agrega más enlaces si tienes más HTML -->
+  </ul>
+</body>
+</html>
